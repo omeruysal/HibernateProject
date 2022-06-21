@@ -19,7 +19,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		</plugins>
 	</build>
 	<properties>
-		<mysql.version>8.0.15</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<hibernate.version>5.0.1.Final</hibernate.version>
 	</properties>
 
